@@ -1,2 +1,2 @@
-# Landing-page
-HTML , CSS , JavaScript
+# Landing-page-main
+HTML,CSS,JAVA SCRIPT 
